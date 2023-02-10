@@ -1,0 +1,13 @@
+{   
+    "notification_info": {
+        "email": "npbnguyenbot@gmail.com",
+        "message": "Dear Friend,\nAs you might know I been monitoring this product day and night for you.\nIT IS IN STOCK NOW.\nSo do not miss this chance.\nGo and get it now!"
+    },
+    "products": [
+        {
+            "id": 1,
+            "product_url": "https://shopee.vn/Tai-nghe-ch%E1%BB%A5p-tai-kh%C3%B4ng-d%C3%A2y-bluetooth-STN28-m%C3%A0u-s%E1%BA%AFc-cute-%C3%A2m-thanh-%E1%BA%A5m-bass-m%E1%BA%A1nh-Ph%E1%BB%A5-Ki%E1%BB%87n-123-i.304853378.4466113256?sp_atk=5dc31425-58bc-4103-891f-339af7872313&xptdk=5dc31425-58bc-4103-891f-339af7872313",
+            "product_name": "Tai nghe chụp tai không dây bluetooth STN28 màu sắc cute,âm thanh ấm bass mạnh- Phụ Kiện 123"
+        }
+    ]
+}
